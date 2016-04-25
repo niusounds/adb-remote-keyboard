@@ -1,0 +1,20 @@
+{
+  "name": "adb-remote-keyboard",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Yuya Matsuo <matsuo@eje-c.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/niusounds/adb-remote-keyboard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
